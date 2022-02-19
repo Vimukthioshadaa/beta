@@ -18,19 +18,19 @@ global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
 
 // Other
-global.botname = "Alphabot-Mdོ"
-global.ownername= "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×"
+global.botname = "𝓿ⲓⲙ𐌵ⲕⲧⲏⲓ"
+global.ownername= "ᴹᴿ᭄ vimυʞɈʜi"
 global.myweb ="https://api-alphabot.herokuapp.com/"
 global.youtube = "https://youtube.com/c/ZeeoneOfc"
 global.github = "https://zeeoneofc.github.io/"
-global.ownernomer = "62887435047326"
-global.ownernomerr = "+62887435047326"
+global.ownernomer = "94775792013"
+global.ownernomerr = "+94775792013"
 global.thumbnail = "./image/lol.jpg"
 global.donasi = "./image/donasi.jpg"
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.owner = ["62887435047326","62887435047326","6285342106390"] //ganti agar fitur owner bisa di gunakan
-global.packname = '© Alphabot-Mdོ' //sticker wm
-global.author = 'Di Buat Oleh ZeeoneOfc' //sticker wm
+global.owner = ["94775792013","94775792013","94775792013"] //ganti agar fitur owner bisa di gunakan
+global.packname = '© งi๓นkthiงi๓นkthi' //sticker wm
+global.author = 'Di Buat Oleh งi๓นkthi' //sticker wm
 global.sessionName = 'session'
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
@@ -40,16 +40,16 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    sukses: '🤗Done, Oke Desu~',
-    admin: 'Perintah Ini Hanya Bisa Digunakan Oleh Admin !',
-    botAdmin: 'Perintah Ini Hanya Bisa Digunakan Ketika Bot Menjadi Admin !',
-    owner: 'Perintah Ini Hanya Bisa Digunakan Oleh Owner !',
-    group: 'Perintah Ini Hanya Bisa Digunakan Di Group !',
-    private: 'Perintah Ini Hanya Bisa Digunakan Di Private !',
-	bot: 'Fitur Khusus Pengguna Nomor Bot',
-    errtoimg: 'Maaf Saat Ini Belum Support Sticker Gif !',
-    wait: '⏳ Sedang Di Proses',
-	lockCmd: 'Fitur Tidak Diaktifkan Oleh Owner!',
+    sukses: '🤗ඉවරයි, ඒක ටබ් එකක්.~',
+    admin: 'මෙම විධානය භාවිතා කළ හැක්කේ පරිපාලක විසින් පමණි!',
+    botAdmin: 'මෙම විධානය භාවිතා කළ හැක්කේ බොට් පරිපාලක වූ විට පමණි !',
+    owner: 'මෙම විධානය භාවිතා කළ හැක්කේ අයිතිකරුට පමණි !',
+    group: 'මෙම විධානය භාවිතා කළ හැක්කේ කණ්ඩායම් වශයෙන් පමණි !',
+    private: 'මෙම විධානය භාවිතා කළ හැක්කේ පුද්ගලිකව පමණි !',
+	bot: 'බොට් අංකය පරිශීලක විශේෂ විශේෂාංග',
+    errtoimg: 'කණගාටුයි දැනට Gif ස්ටිකරයට සහය නොදක්වයි !',
+    wait: '⏳ සකස් වෙමින් පවතී',
+	lockCmd: 'හිමිකරු විසින් සක්රිය කර නොමැති විශේෂාංග!',
 	example1: 'Selamat Datang @user Di Group @subject Jangan Lupa Baca Rules @desc\n\nNote :\n1. @user (Mention User Join)\n2. @bio (Get Bio User Join)\n3. @tanggal (Date Now)\n4. @desc (Get Description Group)\n5. @subject (Group Name)'
 }
 

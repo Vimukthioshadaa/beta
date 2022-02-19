@@ -2,28 +2,28 @@ exports.private = () =>{
 	return`Fitur hanya bisa di gunakan di private chat`
 	}
 exports.wait = () => {
-    return `⏳ Mohon tunggu sebentar~`
+    return `⏳කරුණාකර මොහොතක් ඉන්න~`
 }
 
 exports.ok = () => {
-    return `✅ Done. Ok desu~`
+    return `✅ කළා. හරි ~`
 }
 
 exports.err = () => {
-    return `⚠️ Fitur Sedang Error`
+    return `⚠️ දෝෂ මධ්යස්ථ විශේෂාංග`
 }
 exports.erorLink = () => {
-    return `⚠️ Link nya error`
+    return `⚠️ සබැඳිය දෝෂයකි`
 }
 exports.media = () => {
-    return `Silahkan pilih media yang ingin kamu download`
+    return `කරුණාකර ඔබට බාගත කිරීමට අවශ්‍ය මාධ්‍යය තෝරන්න`
 }
 exports.replyImg = (prefix, command) => {
-    return `Kirim/Reply Foto Dengan Caption ${prefix + command}`
+    return `ශීර්ෂ පාඨය සමඟ ඡායාරූපය යවන්න/පිළිතුරු දෙන්න ${prefix + command}`
 }
 
 exports.wrongFormat = (prefix) => {
-    return `Format salah ❎ Silakan cek cara penggunaan di *${prefix}allmenu*.`
+    return `වැරදි ආකෘතියක් කරුණාකර භාවිතා කරන්නේ කෙසේදැයි පරීක්ෂා කරන්න *${prefix}allmenu*.`
 }
 
 exports.emptyMess = () => {
@@ -35,23 +35,23 @@ exports.cmdNotFound = (cmd, prefix) => {
 }
 
 exports.ownerOnly = () => {
-    return `❎ Command ini khusus Owner`
+    return `❎ මෙම විධානය අයිතිකරු සඳහා වේ`
 }
 
 exports.doneOwner = () => {
-    return `✅  ️Sudah selesai, Owner ~`
+    return `✅  ️ඒක ඉවරයි අයිතිකාරයා ~`
 }
 
 exports.groupOnly = () => {
-    return `👥  Command ini hanya bisa digunakan di dalam grup!`
+    return `👥  මෙම විධානය භාවිතා කළ හැක්කේ කණ්ඩායම් වශයෙන් පමණි!`
 }
 
 exports.adminOnly = () => {
-    return `🙅  Command ini hanya bisa digunakan oleh admin grup!`
+    return `🙅  මෙම විධානය භාවිතා කළ හැක්කේ කණ්ඩායම් පරිපාලකයින්ට පමණි!`
 }
 
 exports.nhFalse = () => {
-    return `Kode tidak valid!`
+    return `වලංගු නොවන කේතය!`
 }
 
 exports.listBlock = (blockNumber) => {
@@ -61,15 +61,15 @@ Total diblokir: *${blockNumber.length}* user\n`
 }
 
 exports.notAdmin = () => {
-    return `❎ User bukan seorang admin! ❎`
+    return `❎ පරිශීලක පරිපාලකයෙක් නොවේ! ❎`
 }
 
 exports.adminAlready = () => {
-    return `❎ Tidak  dapat mem-promote user yang merupakan admin!`
+    return `❎ පරිපාලක වන පරිශීලක ප්‍රවර්ධනය කළ නොහැක!`
 }
 
 exports.botNotAdmin = () => {
-    return `Jadikan bot sebagai admin terlebih dahulu! 🙏`
+    return `මුලින්ම bot එක admin කෙනෙක් කරන්න! 🙏`
 }
 
 exports.received = (pushname) => {
@@ -87,9 +87,9 @@ exports.notNum = (q) => {
 }
 exports.menunya = (salam, pushname) =>{
 	return`Hai kak ${pushname} 👋 selamat ${salam} , 
-saya Alphabot-Md, bot ini adalah Beta Multi-Device Whatsapp. 
-Jika kamu menemukan semacam bug atau kesalahan mohon dimaklumi dulu ya, 
-lapor owner agar segera di perbaiki 🙏      
+මම ᴠɪᴍᴜᴋᴛʜɪ, මෙම bot Beta Multi-Device Whatsapp එකක්.
+ඔබ යම් ආකාරයක දෝෂයක් හෝ දෝෂයක් සොයා ගන්නේ නම්, කරුණාකර තේරුම් ගන්න.
+අයිතිකරුට වාර්තා කරන්න එවිට එය වහාම නිවැරදි වනු ඇත🙏      
 `
 }
 exports.listMenu = (time, salam, pushname, prefix) => {
@@ -706,7 +706,7 @@ exports.source = () =>{
 return`*------「 SOURCE CODE 」 ------*
 
 Base : https://github.com/DikaArdnt/Hisoka-Morou
-Recode : https://youtube.com/playlist?list=PLFCglBzFPHG7vSQaa9S3P8yfla_d9w-2-
+Recode : https://youtube.com/playl
 `
 }
 exports.tos = (ownernomer) => {
@@ -1303,16 +1303,7 @@ return`╭─❒ 「 Random Cewe 」
 
 exports.tqto = () =>{
 	return`╭─❒ 「 TqTo 」 
-├ My God
-├ My Parents
-├ Fatih A.
-├ Ferdi
-├ DikaArdnt
-├ Mhankbarbar
-├ Nurutomo
-├ Rashid
-├ ZeeoneOfc
-├ Penyedia Module
+├ ᴠɪᴍᴜᴋᴛʜɪ
 ╰❒ And All Support
 `
 }

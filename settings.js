@@ -20,9 +20,9 @@ global.available = false //status online (online)
 // Other
 global.botname = "𝓿ⲓⲙ𐌵ⲕⲧⲏⲓ"
 global.ownername= "ᴹᴿ᭄ vimυʞɈʜi"
-global.myweb ="https://api-alphabot.herokuapp.com/"
-global.youtube = "https://youtube.com/c/ZeeoneOfc"
-global.github = "https://zeeoneofc.github.io/"
+global.myweb ="https://www.youtube.com/channel/UCTudTphqj9Yr4X-tg-LFYLg"
+global.youtube = "https://www.youtube.com/channel/UCTudTphqj9Yr4X-tg-LFYLg"
+global.github = "https://www.youtube.com/channel/UCTudTphqj9Yr4X-tg-LFYLg"
 global.ownernomer = "94775792013"
 global.ownernomerr = "+94775792013"
 global.thumbnail = "./image/lol.jpg"
